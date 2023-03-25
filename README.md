@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">  
-<a href="[https://www.linkedin.com/in/mathieu-ledru](https://linkedin.com/in/https://www.linkedin.com/in/bosesnigdha/)"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a><a href="mailto:snigdhab7@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
+<a href="[https://www.linkedin.com/in/mathieu-ledru](https://www.linkedin.com/in/bosesnigdha/)"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a><a href="mailto:snigdhab7@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
