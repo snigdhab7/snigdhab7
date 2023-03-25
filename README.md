@@ -5,7 +5,7 @@
   <b>This is Snigdha Bose.</b></p>
 
 
-- I'm working as a Senior Full-Stack Developer 👩‍💻 at the Bank of New York Mellon.
+- I'm working as a Senior Full-Stack Developer 👩‍💻.
 
 - A computer science engineer 🎓 having experience working in the financial services industry 💸 as a developer, a home automation startup as an android developer and  contributed to Kindle 📕 as an ACMS intern. 
 
