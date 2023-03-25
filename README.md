@@ -6,10 +6,10 @@
 
 
 - I'm working as a Senior Full-Stack Developer 👩‍💻 at the Bank of New York Mellon.
- 
-- I’m currently working with NLP (Natural Language Programming) for social media analytics and cyberbullying detection <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> .
 
-- I am a computer science engineer 🎓 and have experience in working in the financial services industry 💸 as a developer, a home automation startup as an android developer 📳 and have contributed to Kindle 📕 as an ACMS intern. 
+- A computer science engineer 🎓 having experience working in the financial services industry 💸 as a developer, a home automation startup as an android developer and  contributed to Kindle 📕 as an ACMS intern. 
+
+- Currently working with NLP (Natural Language Programming) for social media analytics and cyberbullying detection <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> .
 
 - Know about more of my experiences at : :octocat: [My Resume](https://drive.google.com/file/d/1lQnrciGf3ZzTY-y9rcGtdlNW9uHl6VjX/view?usp=sharing)
 
