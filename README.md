@@ -1,18 +1,23 @@
-[![Social banner for jh3y](https://github.com/jh3y/jh3y/raw/master/assets/header-banner--optimized.svg)](https://jhey.dev)
+<div align="center"> <img src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif"> </div>
+
 <h1 align='center'> Hi! :wave:</h1>
 <p align='center'>
-This is Snigdha Bose.</p>
-<p align='center'>I'm a full-stack developer from India 👩‍💻.</p>
-<p align='center'>You can reach out to me at <b>snigdhab7@gmail.com</b> 📫.</p>
+  <b>This is Snigdha Bose.</b></p>
 
-- I’m currently working with NLP (Natural Language Programming) for social media analytics and cyberbullying detection 🔭 .
+
+- I'm working as a Senior Full-Stack Developer 👩‍💻 at the Bank of New York Mellon.
+ 
+- I’m currently working with NLP (Natural Language Programming) for social media analytics and cyberbullying detection <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> .
+
 - I am a computer science engineer 🎓 and have experience in working in the financial services industry 💸 as a developer, a home automation startup as an android developer 📳 and have contributed to Kindle 📕 as an ACMS intern. 
 
-- Know about more of my experiences at : <a href="https://github.com/snigdhab7/Resume/blob/master/Resume.pdf"> 📄 Resume</a>
+- Know about more of my experiences at : :octocat: [My Resume](https://drive.google.com/file/d/1lQnrciGf3ZzTY-y9rcGtdlNW9uHl6VjX/view?usp=sharing)
+
+
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/bosesnigdha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bosesnigdha/" height="30" width="40" /></a>
+<p align="left">  
+<a href="[https://www.linkedin.com/in/mathieu-ledru](https://linkedin.com/in/https://www.linkedin.com/in/bosesnigdha/)"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a><a href="mailto:snigdhab7@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
